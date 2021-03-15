@@ -32,12 +32,5 @@ namespace Kolokwium1.Controllers
             }
         }
 
-    
-
-
-
-
-
-
     }
 }
